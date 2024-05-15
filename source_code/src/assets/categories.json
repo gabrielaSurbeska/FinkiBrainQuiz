@@ -1,0 +1,42 @@
+[
+	{
+		"id": "aa",
+		"name": "Category1",
+		"color": "#e6c642"
+	},
+	{
+		"id": "ab",
+		"name": "Category2",
+		"color": "#f94e4e"
+	},
+	{
+		"id": "ac",
+		"name": "Category3",
+		"color": "#685af5"
+	},
+	{
+		"id": "ad",
+		"name": "Category4",
+		"color": "#3ce956"
+	},
+	{
+		"id": "ae",
+		"name": "Technology",
+		"color": "#307de7"
+	},
+	{
+		"id": "af",
+		"name": "Space",
+		"color": "#a656fd"
+	},
+	{
+		"id": "ah",
+		"name": "Science",
+		"color": "#e857ed"
+	},
+	{
+		"id": "ag",
+		"name": "Entertainment",
+		"color": "#56cfef"
+	}
+]
